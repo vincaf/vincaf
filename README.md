@@ -6,7 +6,7 @@ Full Stack Web Developer, Java Developer.
 About Me:
 ----
 
-<img align="right" width="35%" src="https://i.ibb.co/gSzZhQB/img-readme.png"> 
+<img align="right" width="30%" src="https://i.ibb.co/gSzZhQB/img-readme.png"> 
 
 - :computer: I'm currently developing my knowledge in Java and Spring.
 - 👀 I’m interested in Videogames, Tv Series, Anime/Manga and Books.
