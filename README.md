@@ -25,6 +25,19 @@ Languages and Tools
 
 ###### Learning: Angular, improving Java
 
+Check out my little front-end projects
+------
+
+<div>
+<a href="https://vincaf.github.io/htmlcss-playstation/"><img src="https://github.com/ErJump/htmlcss-playstation/blob/main/img/play_logo.svg"  title="PlayStation" alt="PlayStation" width="40" height="40"/></a>
+<a href="https://vincaf.github.io/htmlcss-dropbox/"><img src="https://aem.dropbox.com/cms/content/dam/dropbox/www/en-us/branding/app-dropbox-android@2x.png"  title="Dropbox" alt="Dropbox" width="40" height="40"/></a>
+<a href="https://vincaf.github.io/vue-boolzapp/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png"  title="Whatsapp" alt="Whatsapp" width="40" height="40"/></a>
+ <a href="https://vincaf.github.io/html-css-spotifyweb/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png"  title="Spotify" alt="Spotify" width="40" height="40"/></a>
+<a href="https://vincaf.github.io/htmlcss-discord/"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"  title="Discord" alt="Discord" width="40" height="40"/></a>
+<a href="https://vincaf.github.io/html-css-boolando/"><img src="https://avatars.githubusercontent.com/u/1564818?s=200&v=4" title="Zalando" alt="Zalando" width="40" height="40"/></a>
+<a href="https://vincaf.github.io/html-css-zoom/"><img src="https://www.freepnglogos.com/uploads/zoom-logo-png/zoom-logo-video-icon-in-circle-7.png" title="Zoom" alt="Zoom" width="40" height="40"/></a>
+</div>
+
 My Stats
 --------
 <img width="450" src="https://github-readme-stats.vercel.app/api?username=vincaf&show_icons=true&theme=radical"> 
