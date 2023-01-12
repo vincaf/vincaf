@@ -21,7 +21,7 @@ About Me:
 Languages and Tools
 ------
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,js,vue,mysql,php,laravel,java,spring)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,js,vue,mysql,php,laravel,java,spring,tailwind)](https://skills.thijs.gg)
 
 ###### Learning: Angular, improving Java
 
