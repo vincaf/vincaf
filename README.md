@@ -40,5 +40,5 @@ Check out my little front-end projects
 
 My Stats
 --------
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=vincaf&show_icons=true&theme=radical"> 
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincaf&layout=compact&theme=radical"/>
+<img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vincaf&show_icons=true&theme=radical"> 
+<img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vincaf&layout=compact&theme=radical"/>
